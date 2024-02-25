@@ -1,0 +1,29 @@
+[
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 100,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "lowgradefuel"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 100,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "metal.fragments"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 150,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "cloth"
+    }
+  ]

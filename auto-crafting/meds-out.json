@@ -1,0 +1,11 @@
+[
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 60,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "syringe.medical"
+    }
+]
