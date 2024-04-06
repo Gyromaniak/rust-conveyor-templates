@@ -14,8 +14,8 @@ Rust conveyor filters
 🔵 Automations  
 🟡 Auto Smelting  
 Ⓜ️ Auto Locker 
-🟠  
-🌸  
+🟠 N/A
+🌸 N/A
 🟣 Auto Vending  
 ⚫ Dump Boxes  
 
