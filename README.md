@@ -13,7 +13,7 @@ Rust conveyor filters
 🟢 Sorting System  
 🔵 Automations  
 🟡 Auto Smelting  
-Ⓜ️  
+Ⓜ️ Auto Locker
 🟠  
 🌸  
 🟣 Auto Vending  
